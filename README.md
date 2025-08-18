@@ -4,7 +4,7 @@ Just some femboy having fun coding stuff :3
 ---
 <img src='https://skillicons.dev/icons?i=vscode,visualstudio'/>
 
-<img src='https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,mongodb,regex,c,cpp,cs&theme=dark&perline=6'/>
+<img src='https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,mongodb,regex,c,cpp,cs,java&theme=dark&perline=6'/>
 
 <!--
 **WuchtL/WuchtL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
