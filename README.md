@@ -2,7 +2,9 @@
 
 Just some femboy having fun coding stuff :3
 <br>
-Usually goofing around with C/C++ on Linux or entering hell with JavaScript ;3
+Usually goofing around with C/C++ on Linux
+
+MongoDB my beloved <3
 
 ---
 <img src='https://skillicons.dev/icons?i=vscode,visualstudio'/>
